@@ -1,4 +1,4 @@
-# cfi-pilot-checklists
+# CFI Pilot Checklists
 
 Issues, bugs and discussions for the CFI Pilot Checklists app.
 
